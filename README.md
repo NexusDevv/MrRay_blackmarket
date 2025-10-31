@@ -83,7 +83,8 @@ The blackmarket requires specific job access. Configure job permissions in your 
 For support, updates, or custom development:
 
 **Contact**: MrRay  
-**Organization**: Nexus-development
+**Organization**: Nexus-development (https://discord.gg/nFZ4J9wr)
+
 
 ---
 
